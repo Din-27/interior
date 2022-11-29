@@ -1,0 +1,23 @@
+.main-header {
+    background-color: rgb(53, 49, 49);
+}
+
+.main-name {
+    font-family: 'Sansita swashed';
+    font-size: 22px;
+    margin-left: 10px;
+}
+
+.navbar-toggler, .navbar-toggler-icon, .brand-text {
+    color: rgb(245, 229, 200) !important;
+}
+
+input{
+    background-color: transparent;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+    color: rgb(245, 229, 200);
+}
